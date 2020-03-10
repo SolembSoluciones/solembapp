@@ -1,0 +1,13 @@
+git init        -inicializar repositorio
+
+git status      - ver archivos modificados
+
+git add .       - agregar archivos al branch local
+
+git commit-m "NOMBRE DEL CHANGELIST"
+
+git remote add origin git@github.com:SolembSoluciones/solembapp.git
+
+git pull origin master 
+
+git push origin master 
